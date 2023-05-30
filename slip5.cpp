@@ -46,7 +46,7 @@ void drawCircle()
 void init()
 {
     glClearColor(1, 1, 1, 0);
-    glColor3f(1, 0, 1);
+    glColor3f(1, 0, 0);
     gluOrtho2D(0, 640, 0, 480);
     glClear(GL_COLOR_BUFFER_BIT);
 }

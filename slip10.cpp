@@ -158,7 +158,7 @@ int main(int argc, char **argv)
 {
     cout << "\n \t Enter 1) Scaling ";
     cout << "\n \t Enter 2) Rotation about arbitrary point";
-    cout << "\n \t Enter 3) Reflection";
+    cout << "\n \t Enter 3) Reflection\n";
 
     cin >> ch;
 
